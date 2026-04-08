@@ -32251,6 +32251,41 @@
       "actionid": 2969,
       "actioncode": "",
       "tenantId": "dl"
-    }   
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2970,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2970,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2971,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2971,
+      "actioncode": "",
+      "tenantId": "dl"
+    },{
+      "rolecode": "EMPLOYEE",
+      "actionid": 2972,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2972,
+      "actioncode": "",
+      "tenantId": "dl"
+    }
   ]
 }
