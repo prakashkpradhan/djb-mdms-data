@@ -2710,8 +2710,8 @@
                       {
                         "id": "49e1b0b6-f4e7-4695-affd-580aa2c4686a",
                         "boundaryNum": 1,
-                        "name": "LAL BAGH",
-                        "localname": "LAL BAGH",
+                        "name": "ADARSH NAGAR",
+                        "localname": "ADARSH NAGAR",
                         "longitude": "",
                         "latitude": "",
                         "label": "Locality",
@@ -2722,7 +2722,7 @@
                         "area": "Area1",
                         "children": [],
                         "localityNo": "305",
-                        "localityName": "AZADPUR",
+                        "localityName": "ADARSH NAGAR",
                         "subLocalityNo": "2073",
                         "subAreaName": "LAL BAGH",
                         "colonyMcdCategory": "F",
@@ -4607,7 +4607,7 @@
                         "label": "Locality",
                         "code": "W023L001",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -4629,7 +4629,7 @@
                         "label": "Locality",
                         "code": "W023L002",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -4651,7 +4651,7 @@
                         "label": "Locality",
                         "code": "W023L003",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -4673,7 +4673,7 @@
                         "label": "Locality",
                         "code": "W023L004",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -4707,7 +4707,7 @@
                         "label": "Locality",
                         "code": "W024L001",
                         "pincode": [
-                          110042
+                          110086
                         ],
                         "area": "Area1",
                         "children": [],
@@ -4729,7 +4729,7 @@
                         "label": "Locality",
                         "code": "W024L002",
                         "pincode": [
-                          110042
+                          110086
                         ],
                         "area": "Area1",
                         "children": [],
@@ -4763,7 +4763,7 @@
                         "label": "Locality",
                         "code": "W025L001",
                         "pincode": [
-                          110085
+                          110086
                         ],
                         "area": "Area1",
                         "children": [],
@@ -4785,7 +4785,7 @@
                         "label": "Locality",
                         "code": "W025L002",
                         "pincode": [
-                          110085
+                          110086
                         ],
                         "area": "Area1",
                         "children": [],
@@ -10045,7 +10045,7 @@
                         "label": "Locality",
                         "code": "W052L002",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -10067,7 +10067,7 @@
                         "label": "Locality",
                         "code": "W052L003",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -10089,7 +10089,7 @@
                         "label": "Locality",
                         "code": "W052L004",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -10233,7 +10233,7 @@
                         "label": "Locality",
                         "code": "W053L005",
                         "pincode": [
-                          110042
+                          110089
                         ],
                         "area": "Area1",
                         "children": [],
@@ -10267,7 +10267,7 @@
                         "label": "Locality",
                         "code": "W054L001",
                         "pincode": [
-                          110042
+                          110089
                         ],
                         "area": "Area1",
                         "children": [],
@@ -10289,7 +10289,7 @@
                         "label": "Locality",
                         "code": "W054L002",
                         "pincode": [
-                          110042
+                          110089
                         ],
                         "area": "Area1",
                         "children": [],
@@ -71816,8 +71816,8 @@
                       {
                         "id": "49e1b0b6-f4e7-4695-affd-580aa2c4686a",
                         "boundaryNum": 1,
-                        "name": "LAL BAGH",
-                        "localname": "LAL BAGH",
+                        "name": "ADARSH NAGAR",
+                        "localname": "ADARSH NAGAR",
                         "longitude": "",
                         "latitude": "",
                         "label": "Locality",
@@ -71828,7 +71828,7 @@
                         "area": "Area1",
                         "children": [],
                         "localityNo": "305",
-                        "localityName": "AZADPUR",
+                        "localityName": "ADARSH NAGAR",
                         "subLocalityNo": "2073",
                         "subAreaName": "LAL BAGH",
                         "colonyMcdCategory": "F",
@@ -73713,7 +73713,7 @@
                         "label": "Locality",
                         "code": "W023L001",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -73735,7 +73735,7 @@
                         "label": "Locality",
                         "code": "W023L002",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -73757,7 +73757,7 @@
                         "label": "Locality",
                         "code": "W023L003",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -73779,7 +73779,7 @@
                         "label": "Locality",
                         "code": "W023L004",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -73813,7 +73813,7 @@
                         "label": "Locality",
                         "code": "W024L001",
                         "pincode": [
-                          110042
+                          110086
                         ],
                         "area": "Area1",
                         "children": [],
@@ -73835,7 +73835,7 @@
                         "label": "Locality",
                         "code": "W024L002",
                         "pincode": [
-                          110042
+                          110086
                         ],
                         "area": "Area1",
                         "children": [],
@@ -73869,7 +73869,7 @@
                         "label": "Locality",
                         "code": "W025L001",
                         "pincode": [
-                          110085
+                          110086
                         ],
                         "area": "Area1",
                         "children": [],
@@ -73891,7 +73891,7 @@
                         "label": "Locality",
                         "code": "W025L002",
                         "pincode": [
-                          110085
+                          110086
                         ],
                         "area": "Area1",
                         "children": [],
@@ -79151,7 +79151,7 @@
                         "label": "Locality",
                         "code": "W052L002",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -79173,7 +79173,7 @@
                         "label": "Locality",
                         "code": "W052L003",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -79195,7 +79195,7 @@
                         "label": "Locality",
                         "code": "W052L004",
                         "pincode": [
-                          110042
+                          110085
                         ],
                         "area": "Area1",
                         "children": [],
@@ -79339,7 +79339,7 @@
                         "label": "Locality",
                         "code": "W053L005",
                         "pincode": [
-                          110042
+                          110089
                         ],
                         "area": "Area1",
                         "children": [],
@@ -79373,7 +79373,7 @@
                         "label": "Locality",
                         "code": "W054L001",
                         "pincode": [
-                          110042
+                          110089
                         ],
                         "area": "Area1",
                         "children": [],
@@ -79395,7 +79395,7 @@
                         "label": "Locality",
                         "code": "W054L002",
                         "pincode": [
-                          110042
+                          110089
                         ],
                         "area": "Area1",
                         "children": [],
